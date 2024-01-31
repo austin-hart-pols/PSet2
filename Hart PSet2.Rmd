@@ -1,5 +1,5 @@
 ---
-title: "PS 1 SOLUTION SET"
+title: "PS 2 SOLUTION SET"
 author: Spring 2024
 output: 
   pdf_document:
